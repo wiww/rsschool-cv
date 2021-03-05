@@ -7,7 +7,7 @@
 * Tel: *+38 0684279699*
 * e-mail: *wiww@ukr.net*
 
-![alt text]( https://en.wikipedia.org/wiki/Victoria_(mythology)#/media/File:Berlin_Siegess%C3%A4ule_8245.jpg "My photo")  
+![Place for my pfoto in next future]( https://en.wikipedia.org/wiki/Victoria_(mythology)#/media/File:Berlin_Siegess%C3%A4ule_8245.jpg "My photo")  
 
 ###Professional summary
 Beginner developer. I make it my goal to create software with the user in mind, creating applications with a useable and intuitive user interface experience. I also understand the importance of creating highly readable and easily maintainable source code. I am constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry.

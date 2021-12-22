@@ -6,7 +6,9 @@
     Tel: +38 0684279699
     e-mail: wiww@ukr.net
 
-Place for my pfoto in next future
+ 
+![Place for my pfoto in next future](https://www.ortograf.pl/)
+
 
 ###Professional summary
 
@@ -24,7 +26,7 @@ Place for my pfoto in next future
 
 ###Code examples My personal page
 
-<!DOCTYPE html>
+``` <!DOCTYPE html>
 <html>
 
     <head>
@@ -39,7 +41,7 @@ Place for my pfoto in next future
     </head>
     <body>
 
-    <!-- header -->
+    <header>
     <header class="header">
         <div class="container">
             <div class="header__inner">
@@ -71,7 +73,7 @@ Place for my pfoto in next future
    </div>
     </body>
 </html>  
-
+```
 ###Working experience
 
 ####JS developer 

@@ -10,11 +10,11 @@ body {
 
  a { 
     text-decoration: none;  
-   color: 00994C;
+   color: rgb(217, 2, 16); 
    }
    a:hover { 
     text-decoration: underline; 
-    color: FF0000;  
+    color: rgb(102, 1, 8);  
    }
 
 .oneheader {

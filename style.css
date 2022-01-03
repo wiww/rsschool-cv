@@ -10,10 +10,11 @@ body {
 
  a { 
     text-decoration: none;  
+   color: 00994C;
    }
    a:hover { 
     text-decoration: underline; 
-    color: 00994C;  
+    color: FF0000;  
    }
 
 .oneheader {

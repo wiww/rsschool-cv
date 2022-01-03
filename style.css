@@ -1,13 +1,75 @@
 body {
-    background-color: lightblue;
+  width: 1000px;
+  box-sizing: content-box;
+  color: #8170D8; 
+
+  margin: 0px auto;
+  background-color: rgb(245, 245, 220);  
   }
+
+
+
+.oneheader {
+  position: sticky;  
+  top: 0;
+  z-index: 10;
+
+  width: 957px;
+  height: 200px; 
+  box-sizing: content-box;
+
+  box-shadow: 0 0 15px rgba(30, 2, 95, 0.5);
+  border-radius: 25px;
+  border: 2px solid #190773;
+  background: #3C2D84;
+  padding: 20px;
+
+   
+}
+.footer {
+  width: auto;
+  height: auto;    
   
-  h1 {
-    color: white;
-    text-align: center;
-  }
+  box-sizing: content-box;
+  border-radius: 25px;
+  box-shadow: 0 0 10px rgba(30, 2, 95, 0.5);
+  border: 2px solid #190773;
+  background: #3C2D84;
+  padding: 20px;
+
   
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }
+}
+.section {
+  width: auto;
+  height: auto;    
+  
+  box-sizing: content-box;
+  border-radius: 25px;
+  box-shadow: 0 0 10px rgba(30, 2, 95, 0.5);
+  border: 2px solid #3C2D84;
+  background: #9c89fd;
+  padding: 20px;
+
+  color: #190773;
+}
+
+.innerHeader {
+  display: block;
+  float: left;
+}
+.contacts {
+  text-align: right;
+  font-style: italic;
+
+  margin-left: 200px;
+}
+.title {
+  margin-left: 50px;
+}
+.contacts2 {
+
+  font-style: italic;
+  text-align:left;
+
+  padding-left: 80px;
+}

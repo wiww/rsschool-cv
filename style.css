@@ -12,7 +12,8 @@ body {
     text-decoration: none;  
    }
    a:hover { 
-    text-decoration: underline;  
+    text-decoration: underline; 
+    color: 00994C;  
    }
 
 .oneheader {

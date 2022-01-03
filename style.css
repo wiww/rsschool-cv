@@ -5,9 +5,15 @@ body {
 
   margin: 0px auto;
   background-color: rgb(245, 245, 220);  
+ 
   }
 
-
+ a { 
+    text-decoration: none;  
+   }
+   a:hover { 
+    text-decoration: underline;  
+   }
 
 .oneheader {
   position: sticky;  
